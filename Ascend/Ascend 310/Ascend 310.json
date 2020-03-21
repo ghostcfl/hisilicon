@@ -1,0 +1,15 @@
+{
+    "category": "Ascend",
+    "title": "Asecend 310 AI Processor Energy efficiency and high integration for edges",
+    "sub_title": "Ascend 310",
+    "overview_main_specification_highlights": [
+        "Ascend 310 is a highly efficient, flexible and programmable AI processor, in typical configuration, 16 TOPS@INT8 and 8 TOPS@FP16 can be output, while the power consumption is only 8W. Ascend 310 uses Huawei-developed Da Vinci architecture, integrates abundant computing units\uff0cextends the application scope of the AI chip. With the acceleration of the all-AI service process, the performance of the AI system is greatly improved, while deployment costs are reduced significantly.",
+        "Architecture: Da Vinci",
+        "Computing Engine\uff1a3D Cube",
+        "Performance\uff1a16 TOPS@INT8 and 8 TOPS@FP16",
+        "Max Power: 8W",
+        "Process\uff1a12nm FFC",
+        "Ascend 310 breaks through design constraints such as the power consumption and computing capability. With the greatly improved energy efficiency ratio, Ascend 310 extends AI from the data center to the edge and device, and provides brand-new solutions for application scenarios such as safe city, self-driving, cloud service and IT intelligence, smart manufacturing, and robots, enabling the smart future."
+    ],
+    "pdf_url": null
+}

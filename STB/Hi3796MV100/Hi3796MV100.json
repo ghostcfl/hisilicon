@@ -1,0 +1,13 @@
+{
+    "category": "STB",
+    "title": "Entry-level 4KP30 chipset",
+    "sub_title": "Hi3796MV100",
+    "key_features": [
+        "High-performance Quad-core ARM A7",
+        "Multi-core high-performance GPU Mali450",
+        "Support 4K*2K@30fps decoding",
+        "Support multiple decoding format including H.265/HEVC, AVS+, H.264/AVC MVC, MPEG-1/2/4, VC-1",
+        "Support TVOS2.0,Android,Linux OS"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/STB/Hi3796MV100.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "category": "Mobilecam",
+    "title": "High-performance and low-power 4K ultra-HD Mobile Camera Solution",
+    "sub_title": "Hi3559 V200",
+    "key_features": [
+        "Low Power Consumption. Typical power consumption in the 3840 x 2160@30 fps H.265 encoding scenario: 1.1 W",
+        "Advanced Gyro Image Stabilization 2.0 Algorithm. Hardware acceleration stabilization algorithm with up to 4K@30 fps performance",
+        "4K30 Codec. 3840 x 2160@30 fps or 1080p@120 fps H.265/H.264 Encoding&Decoding",
+        "Highest 0.4T neural network computing Capability. supported intelligent functions such as face detection and scenario identification",
+        "Dual-Sensor Access. Dual-channel input applications, such as streaming media rear-view mirror cameras",
+        "Fast Startup"
+    ],
+    "": [],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3559V2004K.pdf"
+}

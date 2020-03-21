@@ -1,0 +1,34 @@
+{
+    "category": "Display",
+    "title": "4K high-end smart TV solution",
+    "sub_title": "HI3751V810",
+    "key_features": [
+        "ARM A73 64-bits CPU",
+        "ARM\u00ae G51 GPU",
+        "HDR",
+        "4Kx2K HEVC and VP9 10bit\u3001H.264 for 4K2K 10bit\u3001AVS+\u3001AVS2.0",
+        "60Hz MEMC",
+        "HDMI 2.0",
+        "USB 3.0",
+        "PCI-e Interface",
+        "Global demodulator",
+        "4K TCONLESS",
+        "Video DRM",
+        "Dolby ATMOS"
+    ],
+    "technology_highlights": [
+        "ARM Cortex\u00ae A73 64-bit CPU",
+        "Multi-core ARM\u00ae G51 graphics GPU",
+        "Full spec HDR",
+        "DDR3/4",
+        "4Kx2K HEVC and VP9 10bit\u3001H.264 for 4K2K 10bit\u3001AVS+\u3001AVS2.0",
+        "60Hz MEMC",
+        "HDMI 2.0\u3001USB 3.0&USB 2.0",
+        "PCI-e Interface",
+        "Global demodulation",
+        "4K TCONLESS",
+        "Video DRM of based on TEE",
+        "Dolby ATMOS"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Display/removenetworks/Hi3751V810.pdf"
+}

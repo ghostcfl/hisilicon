@@ -1,0 +1,17 @@
+{
+    "category": "IoT",
+    "title": "Cat-NB1 Solution for Low Power and Easy IoT Device Application Development",
+    "sub_title": "Hi2110",
+    "technology_highlights": [
+        "Single-die: radio transceiver + baseband + applications processor + PMU",
+        "Radio transceiver drives external FEM or PA/filter/switch",
+        "690-960 MHz tuning range",
+        "3 x ARM M0 processors for Protocol, Security and Application firmware",
+        "DSP processor for Software defined modem",
+        "Embedded on die flash, ROM and OTP for secure operation",
+        "Integrated PMU, allowing direct from battery",
+        "Integrated sensors and peripherals for applications",
+        "Ultra-low deep sleep current essential for long battery life"
+    ],
+    "pdf_url": null
+}

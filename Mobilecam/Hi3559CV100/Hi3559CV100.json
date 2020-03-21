@@ -1,0 +1,19 @@
+{
+    "category": "Mobilecam",
+    "title": "High-end 4K120/8K30 Mobile Camera Solution",
+    "sub_title": "Hi3559CV100",
+    "key_features": [
+        "Dual core A73@2GHz+Dual core A53@1.5GHz",
+        "8K@30fps/4K@120fps H.265 Main10 / H.264 Codec",
+        "36M@15fps JPEG Codec",
+        "Professionl intermediate codec",
+        "HDR10/14bit ISP pipeline",
+        "6-axis EIS(Electrical Image Stabilization)",
+        "up to 8-sensors input",
+        "2/4/6-sensor Panorama Stitching",
+        "Embeded NPU for Deep-learning",
+        "Stereo-depth engine",
+        "PCI-e 2.0/USB3.0 for high-speed storage"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3559CV100.pdf"
+}

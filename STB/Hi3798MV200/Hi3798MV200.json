@@ -1,0 +1,14 @@
+{
+    "category": "STB",
+    "title": "Entry/Middle-Level UHD chipset",
+    "sub_title": "Hi3798MV200",
+    "key_features": [
+        "Multi-core 64 bits high-performance ARM CortexA53;",
+        "Multi-core high-performance GPU Mali450;",
+        "Support multiple HDR format\uff0csupport VR/panorama video",
+        "Support 4K*2K@60fps 10bit decoding,WCG;",
+        "Support multiple decoding format including H.265/HEVC, AVS+, H.264/AVC MVC, MPEG-1/2/4, VC-1;",
+        "Support TVOS,Android,Linux OS."
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/STB/removerealnetworks/Hi3798MV200.pdf"
+}

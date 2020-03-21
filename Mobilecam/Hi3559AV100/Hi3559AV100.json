@@ -1,0 +1,18 @@
+{
+    "category": "Mobilecam",
+    "title": "4KP60/4KP120 or 8KP30 high-end Mobile Camera Solution",
+    "sub_title": "Hi3559AV100",
+    "key_features": [
+        "Dual core A73@2GHz+Dual core A53@1.5GHz",
+        "8K@30fps + 1080P@30fps H.265 Main10 / H.264 Codec",
+        "HDR10/14bit ISP pipeline",
+        "Up to 8 sensors input",
+        "2chn/4chn/6chn Stitching",
+        "Support super 6-DOF EIS",
+        "Support object recognition",
+        "Support depth image",
+        "Support SLAM",
+        "Support PCI-e 2.0/USB3.0 high-speed storage"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3559AV100.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "category": "AccessHomeNetwork",
+    "title": "High Performance 10GPON HGU Solution",
+    "sub_title": "Hi5681T",
+    "technology_highlights": [
+        "Multi standard: XG-PON, 10GEPON, GPON, EPON",
+        "Router Mode",
+        "ARM Cortex- A9 Qual Core 1GHz",
+        "Ethernet Phy: 4GE+RGMII",
+        "PCIEx2",
+        "USB2.0*1+USB3.0*1",
+        "Flash: SPI NAND",
+        "Power consumption(Typical): 3.2W"
+    ],
+    "pdf_url": null
+}

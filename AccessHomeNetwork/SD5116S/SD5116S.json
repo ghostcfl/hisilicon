@@ -1,0 +1,14 @@
+{
+    "category": "AccessHomeNetwork",
+    "title": "G/EPON High Integrated two port HGU/SFU Solution",
+    "sub_title": "SD5116S",
+    "technology_highlights": [
+        "GPON/EPON Bridge Mode",
+        "ARM Cortex- A9 333MHz",
+        "Embedded 32MB SDRAM",
+        "Ethernet Phy: 1GE",
+        "Flash: SPI-NOR",
+        "Power consumption(Typical): 750mW"
+    ],
+    "pdf_url": null
+}

@@ -1,0 +1,27 @@
+{
+    "category": "Display",
+    "title": "4K60Hz/120Hz Pure TCON",
+    "sub_title": "Hi3231 V530",
+    "key_features": [
+        "4K x 2K 60 Hz Pure TCON",
+        "4K x 2K 120 Hz Pure TCON\uff082-chip\uff09"
+    ],
+    "technology_highlights": [
+        "UHD 60Hz/120Hz display v",
+        "8lane V-by-One input",
+        "Mini-LVDS/P2P output v",
+        "Single-gate/dual-gate/tri-gate Panel",
+        "Flexible normal/GOA TCON timing",
+        "Real regional Line OD",
+        "View angle compensation",
+        "Flexible pattern detection",
+        "Regional OD and 2-frame OD",
+        "Fine Demura",
+        "Random Dither",
+        "3D color engine",
+        "Auto gamma tuning",
+        "Auto Line OD tuning",
+        "Auto OD tuning"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Display/Hi3231 V530 Brief Data Sheet.pdf"
+}

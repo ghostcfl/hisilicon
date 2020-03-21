@@ -1,0 +1,13 @@
+{
+    "category": "STB",
+    "title": "DVB-T2/DVB-T demodulator",
+    "sub_title": "Hi3137V100",
+    "key_features": [
+        "DVB-T2 and DVB-T standards, automatic standard recognition",
+        "Standard DVB-T2 V1.3.1 and DVB-T V1.5.1",
+        "DVB-T2 Base and Lite modes",
+        "5 MHz, 6 MHz, 7 MHz, 8 MHz, and 1.7 MHz input bandwidth",
+        "MQFN48"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/STB/Hi3137V100.pdf"
+}

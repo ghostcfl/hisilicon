@@ -1,0 +1,13 @@
+{
+    "category": "Camera",
+    "title": "Mainstream 2M intelligent IP Camera SoC",
+    "sub_title": "Hi3516CV500",
+    "key_features": [
+        "Dual-core ARM Cortex-A7@ 900 MHz;",
+        "1920 x 1080@30 fps+720 x 480@30 fps encoding;",
+        "Max.3M Pixel sensor input;",
+        "Neural network acceleration engine with processing performance up to 0.5 TOPS\uff1b",
+        "2-frame WDR,Tone mapping"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3516CV500.pdf"
+}

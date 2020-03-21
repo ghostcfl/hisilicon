@@ -1,0 +1,15 @@
+{
+    "category": "HiKey",
+    "title": "HiKey 960",
+    "sub_title": "",
+    "overview_main_specification": [
+        "Powered by Kirin 960, HiKey 960 provides top in class performance around all mobile SoC. It conforms to the Linaro 96boards open development board specification and has reserved a rich standard external I/O extension interface, which can be applied to the external I/O equipment, display and camera in the 96Boards ecosystem.",
+        "4 ARM Cortex-A73+ 4 Cortex-A53",
+        "ARM Mali-G71 MP8 3DGPU",
+        "3GB LPDDR4 SDRAM/ 32GB UFS flash storage/ microSD card slot",
+        "40 pin low speed expansion connector: +1.8V, +5V, DC power, GND, 2UART, 2I2C, SPI, I2S, 12*GPIO",
+        "60 pin high speed expansion connector: 4L-MIPI DSI, I2C x2, SPI (48M), USB 2.0, 2L+4LMIPI CSI",
+        "AOSP / LINUX"
+    ],
+    "pdf_url": null
+}

@@ -1,0 +1,15 @@
+{
+    "category": "Camera",
+    "title": "High-end Industry IP Camera Soc",
+    "sub_title": "Hi3559AV100",
+    "key_features": [
+        "Quad Core 2xA73@2GHz+2xA53@1.5GHz",
+        "8K@30fps + 1080P@30fps H.265 Main10 Codec",
+        "2chn/4chn/6chn Stitching",
+        "HDR10/14bit ISP pipeline",
+        "Max. 36M Pixel sensor input",
+        "Advanced Smart Vision Platform",
+        "PCI-e 2.0+USB3.0 high-speed storage"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3559AV100.pdf"
+}

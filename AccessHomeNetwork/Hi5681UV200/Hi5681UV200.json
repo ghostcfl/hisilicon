@@ -1,0 +1,16 @@
+{
+    "category": "AccessHomeNetwork",
+    "title": "High Performance 10GPON HGU Solution",
+    "sub_title": "Hi5681UV200",
+    "technology_highlights": [
+        "Multi standard: XG-PON, XGS-PON, 10GEPON, GPON, EPON",
+        "Router Mode",
+        "ARM Cortex- A9 Qual Core 1.2GHz",
+        "Ethernet Phy: 4GE+RGMII+XFI",
+        "PCIEx2",
+        "USB3.0x2",
+        "Flash: SPI NAND",
+        "Power consumption(Typical): 3.2W"
+    ],
+    "pdf_url": null
+}

@@ -1,0 +1,14 @@
+{
+    "category": "STB",
+    "title": "High Performance HEVC HD Zapper SOC Chipset",
+    "sub_title": "Hi3716MV430T",
+    "key_features": [
+        "ARM Cortex A7",
+        "1*1080@60fps decoding",
+        "MPEG2/H.264/H2.65/AVS/VC1/VP6/VP8/AVS+, maximum to 1080p60",
+        "1*ETH + 1*PHY 2*USB2.0with PHY",
+        "Two SCIs\uff0cBuilt-in DVB\u2013T/T2/ISDB-T demodulator",
+        "Linux OS"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/STB/newproduct/Hi3716MV430TerrestrialHD.pdf"
+}

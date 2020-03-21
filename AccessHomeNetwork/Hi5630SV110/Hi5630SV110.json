@@ -1,0 +1,13 @@
+{
+    "category": "AccessHomeNetwork",
+    "title": "G.hn PHY Bridging Solution",
+    "sub_title": "Hi5630SV110",
+    "technology_highlights": [
+        "Single Core A9@500MHz",
+        "G.hn 1Gbps PHY rate",
+        "Integrated 64MB DDR",
+        "GE PHY*1, RGMII*1",
+        "Support bridging mode"
+    ],
+    "pdf_url": null
+}

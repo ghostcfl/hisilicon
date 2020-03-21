@@ -1,0 +1,18 @@
+{
+    "category": "Kunpeng",
+    "title": "The industry's highest-performance ARM-based server CPU to date",
+    "sub_title": "Huawei Kunpeng 920",
+    "overview_main_specification_highlights": [
+        "Huawei Kunpeng 920 is the industry's highest-performance ARM-based server CPU to date. Using the cutting-edge 7nm process, the CPU was independently designed by Huawei based on ARMv8 architecture license. It significantly improves processor performance by optimizing branch prediction algorithms, increasing the number of execution units, and improving the memory subsystem architecture and so on. At typical frequency, the Huawei Kunpeng 920 CPU scores over 930 in the SPECint Benchmarks test, which is 25% higher than the industry benchmark. At the same time, power efficiency is 30% better than that offered by industry counterparts. Huawei Kunpeng 920 provides much higher computing performance for data centers while slashing power consumption.",
+        "TaiShan will enable computing platforms with high performance and low power consumption for enterprises.",
+        "Architecture: ARM v8.2",
+        "Core: up to 64",
+        "Typical Frequency\uff1a2.6GHz",
+        "Memory\uff1a8 DDR4 Channels",
+        "I/O: PCIe 4.0, CCIX, 100G, SAS/SATA 3.0",
+        "Max Power: 180W",
+        "Process\uff1a7nm",
+        "Huawei Kunpeng 920 will enable computing platforms with high performance and low power consumption for scenarios including Big Data, Distributed Storage, Database, ARM-Native, Edge Computing and so on. It brings unique value in the coming diversified computing era."
+    ],
+    "pdf_url": null
+}

@@ -1,0 +1,15 @@
+{
+    "category": "STB",
+    "title": "The most cost effective FHD chipset",
+    "sub_title": "Hi3716MV330",
+    "key_features": [
+        "Cortex A9",
+        "Support 1\u00d71080@30fps decoding",
+        "Support mutiple decoding format including MPEG2/H.264/AVS/VC1/VP6/VP8/AVS+",
+        "Integrated 128MB/256MB DDR",
+        "1xETH+1xPHY",
+        "Intergrated QAM,Multipath TS In, support FBC",
+        "Linux operation system"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/STB/removerealnetworks/Hi3716MV330.pdf"
+}

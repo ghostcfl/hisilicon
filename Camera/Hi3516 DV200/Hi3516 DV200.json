@@ -1,0 +1,15 @@
+{
+    "category": "Camera",
+    "title": "Mainstream 4M IP Camera SoC",
+    "sub_title": "Hi3516 DV200",
+    "key_features": [
+        "ARM Cortex-A7@ 900 MHz",
+        "2688 x 1520@30 fps+720 x 576@30 fps",
+        "3072 x 1728@20 fps+720 x 576@20 fps",
+        "2688 x 1944@20 fps+720 x 576@20 fps",
+        "Max.5M Pixel sensor input",
+        "2F- WDR line-based mode",
+        "Smart ISP, Smart encoding, Smart Alarm"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3516DV200.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "category": "STB",
+    "title": "DVB-S2/DVB-S demodulator",
+    "sub_title": "Hi3136V100",
+    "key_features": [
+        "DVB-S2/DVB-S, and DirecTV (ITU-RBO.1516-System B) standards, automatic standard",
+        "Recognition",
+        "QPSK, 8PSK, 16APSK, and 32APSK for DVB-S2",
+        "TSs and GSs for DVB-S2, data services support",
+        "MQFN48"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/STB/Hi3136V100.pdf"
+}

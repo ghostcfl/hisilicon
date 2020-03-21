@@ -1,0 +1,17 @@
+{
+    "category": "Ascend",
+    "title": "Ascend 910 AI Processor Highest industry performance for training",
+    "sub_title": "Ascend 910",
+    "overview_main_specification": [
+        "This AI processor delivers 256 TFLOPS@FP16 and 512 TOPS@INT8 of compute performance with just 350 W of max power consumption. The massive boost in power efficiency is thanks to Huawei's own Da Vinci architecture.",
+        "Ascend 910 is a high-integration SoC processor. In addition to the Da Vinci AI cores, it integrates CPUs, DVPP, and Task Scheduler. It self-manages to make full use of its high computing power.",
+        "HCCS, PCIe 4.0, and RoCE v2 build scale-up and scale-out systems both flexibly and efficiently. HCCS is Huawei's in-house high-speed interface interconnecting Ascend 910s. On-chip RoCE interconnects nodes directly. PCIe 4.0 doubles the throughput of the previous generation.",
+        "Architecture: Da Vinci",
+        "Computing Engine\uff1a3D Cube",
+        "Performance\uff1a256 TFLOPS @FP16",
+        "512 TOPS @INT8",
+        "Max Power: 350W",
+        "Process\uff1aN7+"
+    ],
+    "pdf_url": null
+}

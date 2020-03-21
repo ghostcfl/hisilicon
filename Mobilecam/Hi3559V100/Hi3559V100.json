@@ -1,0 +1,16 @@
+{
+    "category": "Mobilecam",
+    "title": "2KP60/4KP30 mainstream Mobile Camera Solution",
+    "sub_title": "Hi3559V100",
+    "key_features": [
+        "Cortex A17@1.2GHz+Cortex A7@800MHz big.LITTLE Architecture",
+        "4K@30fps+1080P@30fps H.264/H.265 encoding",
+        "Max.16M Pixel sensor input",
+        "Dual sensors in with stitching function",
+        "Support fisheye correction",
+        "Support 6-DOF EIS",
+        "Support 4F/3F/2F WDR",
+        "Support PCI-e 2.0/USB3.0 high-speed storage"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3559V100.pdf"
+}

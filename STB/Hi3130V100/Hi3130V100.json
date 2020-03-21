@@ -1,0 +1,11 @@
+{
+    "category": "STB",
+    "title": "DVB-C demodulator chipset",
+    "sub_title": "Hi3130V100",
+    "key_features": [
+        "Compliant with the DVB-C standard,Compliant with the common DVB interface standard",
+        "16/32/64/128/256-QAM demodulation",
+        "LQFP64 package"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/STB/Hi3130V100.pdf"
+}

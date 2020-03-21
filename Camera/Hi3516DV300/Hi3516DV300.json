@@ -1,0 +1,14 @@
+{
+    "category": "Camera",
+    "title": "Professional 4M intelligent IP Camera SoC",
+    "sub_title": "Hi3516DV300",
+    "key_features": [
+        "Dual-core ARM Cortex-A7@ 900 MHz;",
+        "2688 x 1536@30 fps encoding +720 x 480@30 fps encoding;",
+        "Up to 2688-pixel wide and 2688 x 1944 resolution for H.264/H.265 encoding and decoding;",
+        "Neural network acceleration engine with processing performance up to 1.0 TOPS\uff1b",
+        "2-frame WDR,Tone mapping;",
+        "4-lane MIPI-DSI VO"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3516DV300.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "category": "STB",
+    "title": "Entry-level FHD Connected chipset",
+    "sub_title": "Hi3716MV310",
+    "key_features": [
+        "Cortex A9 CPU",
+        "Support 1\u00d71080@30fps decoding",
+        "Support MPEG2/H.264/AVS/VC1/VP6/VP8/AVS+/maximum to 1080p30",
+        "2xETH + 1xPHY, 2xUSB2.0with PHY",
+        "Integrated QAM demodulator,Multipath TS In, support FBC",
+        "Linux operation system"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/STB/removerealnetworks/Hi3716MV310.pdf"
+}

@@ -1,0 +1,17 @@
+{
+    "category": "AccessHomeNetwork",
+    "title": "G/EPON Dual band WIFI HGU solution",
+    "sub_title": "Hi5662Y",
+    "technology_highlights": [
+        "GPON/EPON Router Mode",
+        "ARM Cortex- A9 Dual Core 1GHz",
+        "Hardware DSP 166MHz for VoIP",
+        "Ethernet Phy: 4GE\u3001RGMII",
+        "PCIEx2",
+        "USB3.0 *1\u3001USB2.0*1",
+        "Flash: SPI-NOR/NAND",
+        "WiFi: Dual-band AC1200\u3001AC1900\u3001AC2600",
+        "Power consumption(Typical): 2.1W"
+    ],
+    "pdf_url": null
+}

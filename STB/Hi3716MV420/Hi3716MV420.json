@@ -1,0 +1,16 @@
+{
+    "category": "STB",
+    "title": "HEVC FHD PVR chipset",
+    "sub_title": "Hi3716MV420",
+    "key_features": [
+        "Cortex A9",
+        "Multi-core GPU",
+        "Support 2\u00d71080@30fps decoding",
+        "H.265/MPEG2/H.264/AVS/VC1/VP6/VP8/AVS+",
+        "One embedded DVB-C QAM demodulator,Support 6*TS In\uff0csupport FBC",
+        "1*GE+1*FE(intergrated PHY)",
+        "Linux Operation System",
+        "Advacned CAS and DRM"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/STB/removerealnetworks/Hi3716MV420.pdf"
+}

@@ -1,0 +1,20 @@
+{
+    "category": "IoT",
+    "title": "Cat-NB2 Solution for Low Power and Easy IoT Device Application Development",
+    "sub_title": "Hi2115",
+    "technology_highlights": [
+        "Single-die: radio transceiver + baseband + applications processor + PMU",
+        "Radio transceiver drives external FEM or PA/filter/switch",
+        "Two wide-band SAW-less receiver inputs",
+        "MIPI/GPIO RF front end control",
+        "698-960 MHz and 1695-2180 MHz tuning range",
+        "3 x ARM M0 processors for Protocol, Security and Application firmware",
+        "Single tone and multi tone",
+        "14dBm power class in addition to 20dBm and 23dBm",
+        "Embedded on-die flash, SRAM, ROM and OTP secure operation",
+        "Integrated PMU, allowing direct from battery",
+        "Integrated sensors and peripherals for applications",
+        "Ultra-low deep sleep current essential for long battery life"
+    ],
+    "pdf_url": null
+}

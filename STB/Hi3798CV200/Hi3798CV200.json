@@ -1,0 +1,14 @@
+{
+    "category": "STB",
+    "title": "High-end Hybrid UHD 4K SOC chipset",
+    "sub_title": "Hi3798CV200",
+    "key_features": [
+        "High-performance Quad-core 64 bits ARM CortexA53",
+        "High-performance GPU Mali723",
+        "Multi HDR format,support VR/panorama video",
+        "4K*2K@60fps 10bit decoding,WCG",
+        "H.265/HEVC, AVS+, H.264/AVC MVC, MPEG-1/2/4, VC-1",
+        "TVOS, Android,Linux OS"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/STB/newproduct/Hi3798CV200.pdf"
+}

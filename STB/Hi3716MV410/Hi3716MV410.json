@@ -1,0 +1,15 @@
+{
+    "category": "STB",
+    "title": "HEVC Zapper FHD Chipset",
+    "sub_title": "Hi3716MV410",
+    "key_features": [
+        "Cortex A9",
+        "Support 2\u00d71080@30fps decoding",
+        "H.265/MPEG2/H.264/AVS/VC1/VP6/VP8/AVS+",
+        "One embedded DVB-C QAM demodulator,Maximum two TS inputs,Support FBC",
+        "2xETH+1xPHY",
+        "Linux Operation System",
+        "Advacned CAS and DRM"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/STB/removerealnetworks/Hi3716MV410.pdf"
+}

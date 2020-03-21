@@ -1,0 +1,15 @@
+{
+    "category": "Camera",
+    "title": "Consumer Camera Soc Solution",
+    "sub_title": "Hi3518EV300",
+    "key_features": [
+        "ARM Cortex A7@ 900MHz",
+        "2048x1536@20fps+720x576@20fps or1920x1080@30fps+720x576@30fps H.264/H.265 encoding",
+        "H.265+ Intelligent coding\uff1aContinuous recording and storage for 2 years using 1T Byte hard disk. The average bit rate is 128kbps in the home scene.",
+        "Smart PQ: Support face-based exposure strategy and frame-based WDR.",
+        "Integrate IVE, support intelligent motion detection and human detection for AI applications, such as face detection and abnormal sound detection.",
+        "Support LiteOS and quick start.",
+        "Advanced low-power process and architecture design."
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3518EV300.pdf"
+}

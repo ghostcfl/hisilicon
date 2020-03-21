@@ -1,0 +1,17 @@
+{
+    "category": "AccessHomeNetwork",
+    "title": "G/EPON Single band WIFI HGU Solution",
+    "sub_title": "Hi5663H",
+    "technology_highlights": [
+        "GPON/EPON Router Mode",
+        "ARM Cortex- A9 Dual Core 700MHz",
+        "Embedded 256MB DDR3",
+        "Ethernet Phy:1GE+3FE",
+        "PCIEx2",
+        "USB2.0x2",
+        "Flash: SPI-NOR/NAND",
+        "WiFi: N300",
+        "Power consumption(Typical): 1.7W"
+    ],
+    "pdf_url": null
+}

@@ -1,0 +1,16 @@
+{
+    "category": "Camera",
+    "title": "Mainstream 3M IP Camera SoC",
+    "sub_title": "Hi3516EV300",
+    "key_features": [
+        "ARM Cortex-A7@ 900 MHz",
+        "2304 x 1296@30 fps + 720 x 576@30 fps",
+        "2688 x 1520@25 fps + 720 x 576@25 fps",
+        "2592 x 1944@15 fps + 720 x 576@15 fps",
+        "Max.5M Pixel sensor input",
+        "2F- WDR line-based mode",
+        "Built-in 1 Gb DRAM",
+        "Smart ISP, Smart encoding, Smart Alarm"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3516EV300.pdf"
+}

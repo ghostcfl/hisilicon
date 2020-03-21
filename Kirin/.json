@@ -1,0 +1,18 @@
+{
+    "category": "Kirin",
+    "title": "Kirin620",
+    "sub_title": "",
+    "overview_main_specification_highlights": [
+        "As Huawei's first octa-core processor, Kirin 620 not only has the octa-core Cortex-A53 architecture design which focuses on the balance between the power consumption and the performance, Mali-450 MP4, LPDDDR3 memory, and also supports the maximum 150 Mbit/s LTE Cat.4. The performance, endurance, function, and network connectivity of Kirin 620 are all impeccable.",
+        "Process: 28-nm HPM",
+        "CPU: 8x A53 1.2 GHz",
+        "GPU: Mali-450 MP4 500 MHz",
+        "Memory: LPDDR3@ 800 MHz",
+        "LTE: Cat4",
+        "Photographing: 13 megapixels",
+        "Video Encoding & Decoding: 1080p 30 fps",
+        "H.264",
+        "The efficient and powerful Kirin 620 provides more fun experience with less power consumption."
+    ],
+    "pdf_url": null
+}

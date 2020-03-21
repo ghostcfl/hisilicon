@@ -1,0 +1,13 @@
+{
+    "category": "Camera",
+    "title": "Mainstream 8-channel Full-HD H.265 DVR SoC",
+    "sub_title": "Hi3531DV100",
+    "key_features": [
+        "Dual-core ARM Cortex A9@1.4 GHz",
+        "Up to 16-channel 1080P@30fps input capacity",
+        "8x1080p@30 fps+8xD1@30 fps H.265/H.264 encoding+8x1080p@30 fps H.265/H.264 decoding",
+        "HDMI 2.0+VGA+CVBS outputs,with the maximum resolution of 3840 x 2160@30 fps",
+        "Integrated GMAC,Four SATA 3.0/PCIe 2.0/USB 3.0 multiplexed interfaces,2xUSB 2.0"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3531DV100.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "category": "AccessHomeNetwork",
+    "title": "G/EPON High Integrated 1-port SFU Solution",
+    "sub_title": "SD5116L",
+    "technology_highlights": [
+        "GPON/EPON Bridge/Router Mode",
+        "ARM Cortex- A9 Dual Core 500MHz",
+        "Embedded 64MB DDR2",
+        "Ethernet Phy:1GE+1FE",
+        "Flash: SPI-NOR\u3001NAND",
+        "Power consumption(Typical): 1.2W"
+    ],
+    "pdf_url": null
+}

@@ -1,0 +1,16 @@
+{
+    "category": "STB",
+    "title": "Entry/Middle-Level UHD chipset",
+    "sub_title": "Hi3796MV200",
+    "key_features": [
+        "Multi-core 64 bits high-performance ARM CortexA53",
+        "Multi-core high-performance GPU Mali450",
+        "Support multiple HDR format\uff0csupport VR/panorama video",
+        "Support 4K*2K@60fps 10bit decoding,WCG",
+        "Support multiple decoding format including AVS2.0, H.265/HEVC,VP9, AVS+, H.264/AVC MVC, MPEG-1/2/4, VC-1",
+        "Support multi Advanced CAS",
+        "Support TVOS,Android,Linux OS",
+        "Integrated QAM demodulator, Multipath TS In, support FBC"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/STB/removerealnetworks/Hi3796MV200.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "category": "Mobilecam",
+    "title": "Ultra-HD 4K60fps Mobile Camera Solution",
+    "sub_title": "Hi3556AV100",
+    "key_features": [
+        "Low Power Consumption: 1.7 W power consumption in a typical scenario for 4K x 2K (3840 x 2160)@60 fps H.265 encoding",
+        "4K@60 fps Codec : 4K x 2K (3840 x 2160)@60 fps or 1080p@240 fps H.265/H.264 encoding & decoding.",
+        "Multi-Sensor Inputs : Up to 5-sensor inputs, supporting panoramic cameras and UAVs",
+        "Hardware-based Multi-Channel Video Stitching : 2-channel 3K x 3K (3000 x 3000)@30 fps or 4-channel 1080p@30 fps stitching and recording",
+        "High-Performance Intelligent Analysis:",
+        "High-Speed Memory Interfaces: USB 3.0 high-speed interface"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3556AV100.pdf"
+}

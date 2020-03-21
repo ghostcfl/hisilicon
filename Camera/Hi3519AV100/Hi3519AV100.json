@@ -1,0 +1,13 @@
+{
+    "category": "Camera",
+    "title": "Advanced intelligent IP Camera Soc",
+    "sub_title": "Hi3519AV100",
+    "key_features": [
+        "Dual Core 2xA53@1.4GHz",
+        "4K@60fps H.265 Codec",
+        "2chn/4chn Stitching",
+        "vDSP@630MHz & NNIE Engine",
+        "PCI-e 2.0+USB2.0 high-speed storage"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Surveillance_mobilecam/Hi3519AV100.pdf"
+}

@@ -1,0 +1,28 @@
+{
+    "category": "Display",
+    "title": "Entry/Middle-Level 4K SOC",
+    "sub_title": "Hi3751 V553",
+    "key_features": [
+        "High performance ARMv8 64-bit CPU \uff1aA73*2",
+        "High performance Mali T450MP3 GPU",
+        "Support DDR3/4 32bit\uff08up to 2GB\uff09",
+        "Support 4K x 2K 10bit@60 Hz HEVC/VP9/AVS2.0 decoding",
+        "Full HDR processing",
+        "HDMI 2.0b*3",
+        "USB3.0*1\uff0cUSB2.0*3",
+        "Embedded 4K TCON",
+        "Encoder 1*H.264 720p"
+    ],
+    "technology_highlights": [
+        "High performance ARM CPU and GPU",
+        "Independent I-cache, D-cache, and L2 cache",
+        "Integrated multimedia acceleration engine NEON",
+        "Flexible compatibility DDR3/4",
+        "Hi-Imprex PQ Engine and Hi-SuperClear\uff08SR\uff09",
+        "High-performance multi-standard demodulation",
+        "Flexible compatibility embedded 4K TCON for different types panel",
+        "Comprehensive integrated digital television solution",
+        "Security processing feature"
+    ],
+    "pdf_url": "http://www.hisilicon.com/-/media/Hisilicon/pdf/Display/removenetworks/Hi3751V553.pdf"
+}

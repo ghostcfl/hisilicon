@@ -1,0 +1,14 @@
+{
+    "category": "AccessHomeNetwork",
+    "title": "High-Integration G.hn SoC Solution",
+    "sub_title": "Hi5630HV110",
+    "technology_highlights": [
+        "Dual Core A9@500MHz",
+        "G.hn 1Gbps PHY rate",
+        "Integrated 64MB DDR",
+        "GE PHY*1, RGMII*1",
+        "PCIE1.1*2",
+        "Support Routing mode"
+    ],
+    "pdf_url": null
+}
